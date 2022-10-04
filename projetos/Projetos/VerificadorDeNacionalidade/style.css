@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(61, 145, 151);
+} section{
+    background: white;
+    border-radius: 6px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 8px rgba(7, 7, 7, 0.801);
+
+} h1 {
+    text-align: center;
+}

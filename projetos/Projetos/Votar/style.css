@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(168, 67, 67);
+} h1 {
+    color: white;
+    text-align: center;
+}section {
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+    width: 500px;
+    border-radius: 6px;
+    box-shadow: 3px 3px 3px black;
+}
